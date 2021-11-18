@@ -1,0 +1,5 @@
+if ternary
+
+true if condition else flase
+
+self.remove(vaule) --> remove vaule and return removed vaule

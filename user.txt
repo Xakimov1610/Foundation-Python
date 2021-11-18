@@ -1,0 +1,4 @@
+{"name": "Eshmat", "login": "eshmat", "password": "1212", "age": "12"}
+{"name": "Laziz", "login": "emas", "password": "1212", "age": "12"}
+{"name": "Qwe", "login": "12", "password": "1212", "age": "12"}
+{"name": "Tesha", "login": "bolta", "password": "1212", "age": "45"}
